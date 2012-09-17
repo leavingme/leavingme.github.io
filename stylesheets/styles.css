@@ -101,6 +101,7 @@ header {
   position:fixed;
 }
 
+/*
 header ul {
   list-style:none;
   height:40px;
@@ -137,6 +138,7 @@ header ul a {
   padding-top:6px;
   height:40px;
 }
+*/
 
 strong {
   color:#222;
