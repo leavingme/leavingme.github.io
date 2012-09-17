@@ -1,1 +1,5 @@
+---
+layout: default
+title: 你好，世界
+---
 2012-08-25-hello-world.html
