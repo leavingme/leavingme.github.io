@@ -10,7 +10,7 @@ function applyEffects()
 function hostedOnDM()
 {return false;}
 function onPageLoad()
-{loadMozillaCSS('guan_yu_wo_files/guan_yu_woMoz.css')
+{loadMozillaCSS('Media/Moz.css')
 adjustLineHeightIfTooBig('id1');
 adjustFontSizeIfTooBig('id1');
 adjustLineHeightIfTooBig('id6');
