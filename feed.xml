@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:946D0BBC-3EC8-4E9A-A1DA-B410B19F5761</id>
+ <title>Page list Atom feed</title>
+ <updated>2013-02-24T15:14:03+08:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:7355B510-69F2-4A0A-8E47-E020511C9D89</id>
+  <title>欢迎</title>
+  <title xmlns="urn:iweb:">欢迎</title>
+  <in-navbar xmlns="urn:iweb:">7355B510-69F2-4A0A-8E47-E020511C9D89</in-navbar>
+  <link rel="alternate" href="index.html"/>
+  <updated>2013-02-24T15:14:03.001+08:00</updated>
+  <content>欢迎</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:5F74788A-09E7-4E43-96E6-96E80E1FE4BC</id>
+  <title>关于我</title>
+  <title xmlns="urn:iweb:">关于我</title>
+  <in-navbar xmlns="urn:iweb:">5F74788A-09E7-4E43-96E6-96E80E1FE4BC</in-navbar>
+  <link rel="alternate" href="guan_yu_wo.html"/>
+  <updated>2013-02-24T15:14:03.002+08:00</updated>
+  <content>关于我</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:FA10D61A-C115-46AD-87D1-B93B035B8B37</id>
+  <title>Blog</title>
+  <title xmlns="urn:iweb:">Blog</title>
+  <in-navbar xmlns="urn:iweb:">FA10D61A-C115-46AD-87D1-B93B035B8B37</in-navbar>
+  <link rel="alternate" href="Blog/Blog.html"/>
+  <updated>2007-03-02T01:29:51+08:00</updated>
+  <content>Blog</content>
+ </entry>
+</feed>

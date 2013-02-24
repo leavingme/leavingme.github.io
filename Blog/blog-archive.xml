@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Blog</title>
+    <link>http://leavingme.net/leavingme.net/Blog</link>
+    <description>Donec arcu risus diam amet sit. Congue tortor cursus risus vestibulum commodo nisl, luctus augue amet quis aenean maecenas sit, donec velit iusto, morbi felis elit et nibh. Vestibulum volutpat dui lacus consectetuer, mauris at suspendisse.</description>
+    <item>
+      <title>Reflections on the lake</title>
+      <link>http://leavingme.net/leavingme.net/Blog/tiao_mu/2013/2/24_Reflections_on_the_lake.html</link>
+      <guid isPermaLink="false">1fd9b51c-684d-46fe-ab4c-8b16ab9b6027</guid>
+      <pubDate>Sun, 24 Feb 2013 15:06:00 +0800</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://leavingme.net/leavingme.net/Blog/tiao_mu/2013/2/24_Reflections_on_the_lake.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>y&#x5E74;M&#x6708;d&#x65E5;EEEE</iweb:dateFormat>
+    <iweb:baseURL>http://leavingme.net/leavingme.net/Blog</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>

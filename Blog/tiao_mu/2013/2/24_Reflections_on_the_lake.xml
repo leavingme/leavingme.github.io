@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="2D5BCC15-17E9-4D30-A5E7-5DB237B16743">
+  <lastEdited clientType="local-build-20130224" date="2013-02-24 07:14:04 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Evan&#x2019;s World</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Reflections on the lake</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>2013&#x5E74;2&#x6708;24&#x65E5;&#x661F;&#x671F;&#x65E5;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="24_Reflections_on_the_lake_files/shapeimage_1.png" left="0px" top="0px" width="420px" height="200px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Consectetuer arcu ipsum ornare pellentesque vehicula, in vehicula diam, ornare magna erat felis wisi a risus. Justo fermentum id. Malesuada eleifend, tortor molestie, a fusce a vel et. Mauris at suspendisse, neque aliquam faucibus adipiscing, vivamus in. Wisi mattis leo suscipit nec amet, nisl fermentum tempor ac a, augue in eleifend in venenatis, cras sit id in vestibulum felis in, sed ligula. In sodales suspendisse mauris quam etiam erat, quia tellus convallis eros rhoncus diam orci, porta lectus esse adipiscing posuere et, nisl arcu vitae laoreet.&#xD;&#xD;Zelus torqueo velit ad suscipit vindico luptatum premo. Ut metuo suscipere autem suscipit si fere facilisi abluo ille. Mos duis, rusticus facilisis inhibeo suscipit loquor indoles, sagaciter opto capto, premo. Regula os, ea zelus torqueo ideo, consectetuer, iustum jugis. Roto usitas eros laoreet exerci utrum patria similis illum adipiscing. Ulciscor, tation utinam ut molior et, te in aliquip. Nostrud nostrud ratis antehabeo incassum jus abdo vicis adipiscing nostrud.&#xD;&#xD;Dignissim hendrerit similis amet quis abico oppeto appellatio conventio suscipit haero commodo.</richText>
+  </textBox>
+</content>
