@@ -1,0 +1,7 @@
+
+Code<br /><br />Code highlighting produced by Actipro CodeHighlighter (freeware)<br />http://www.CodeHighlighter.com/<br /><br />Shape = Class.create(); Shape.prototype = {     initialize:function(color){         this.color = color;         //alert('in initialize');     },    draw:function(){         alert("in draw");         alert(this.color);     }}Circle = Class.create(); Circle.prototype = Object.extend(new Shape(),{     initialize:function(color,radius){         //alert('in Circle initialize');         this.color = color;         this.radius = radius;     },     drawCircle:function(){         alert("in drawCircle");         alert("color:"+this.color);         alert("radius:"+this.radius);     } })var circle = new Circle("green", 10);alert(circle instanceof Shape);alert(circle instanceof Circle);var shape = new Shape("red");alert(shape instanceof Shape);alert(shape instanceof Circle);
+
+ 
+
+Code<br /><br />Code highlighting produced by Actipro CodeHighlighter (freeware)<br />http://www.CodeHighlighter.com/<br /><br />function class1(){}class1.prototype = {    m1 : function() {        alert(1);    }}function class2(){}class2.prototype = class1.prototype;class2.prototype.method = function(){    alert(2);}var obj1 = new class1();var obj2 = new class2();obj1.method();obj2.method();obj1.m1();obj2.m1();class2.prototype.m1 = function() {    alert(3);}obj1.m1();obj2.m1();
+]]

@@ -1,0 +1,1 @@
+Internet Explorer 6+使用P3PSafari 4Cookie 是无解的，但是可以使用 sessionStorage 或者 localStorage，可以算的上是完美解决。Firefox 和 Chrome 是正常的，无需解决。   ]]
