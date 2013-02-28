@@ -3,11 +3,19 @@ layout: post
 title: Could not load file or assembly ‘AjaxControlToolkit’ or one of its dependencies. The parameter is incorrect. (Exception
 ---
 <span style="font-family: 'Lucida Grande', Verdana, Arial, sans-serif; font-size: 12px; color: #444444;">
-<p style="margin-top: 13px; margin-right: 0px; margin-bottom: 13px; margin-left: 0px; padding: 0px;"><a href="http://ranafaisal.wordpress.com/2008/03/24/could-not-load-file-or-assembly-ajaxcontroltoolkit-or-one-of-its-dependencies-the-parameter-is-incorrect-exception-from-hresult-0x80070057-e_invalidarg/">http://ranafaisal.wordpress.com/2008/03/24/could-not-load-file-or-assembly-ajaxcontroltoolkit-or-one-of-its-dependencies-the-parameter-is-incorrect-exception-from-hresult-0x80070057-e_invalidarg/</a>&nbsp;</p>
-<p>Hi,</p>
-<p style="margin-top: 13px; margin-right: 0px; margin-bottom: 13px; margin-left: 0px; padding: 0px;">Some time in ajax web development you face this error during website building “Could not load file or assembly ‘AjaxControlToolkit’ or one of its dependencies. The parameter is incorrect. (Exception from HRESULT: 0×80070057 (E_INVALIDARG))”.</p>
-<p style="margin-top: 13px; margin-right: 0px; margin-bottom: 13px; margin-left: 0px; padding: 0px;">If this error come then please open this folder “C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files” and remove all items in this. Then rebuild your website.</p>
-<p style="margin-top: 13px; margin-right: 0px; margin-bottom: 13px; margin-left: 0px; padding: 0px;">Then your website build without any error.</p>
-<p style="margin-top: 13px; margin-right: 0px; margin-bottom: 13px; margin-left: 0px; padding: 0px;">Thanks</p>
-<p style="margin-top: 13px; margin-right: 0px; margin-bottom: 13px; margin-left: 0px; padding: 0px;">Rana Faisal Munir</p>
+
+[http://ranafaisal.wordpress.com/2008/03/24/could-not-load-file-or-assembly-ajaxcontroltoolkit-or-one-of-its-dependencies-the-parameter-is-incorrect-exception-from-hresult-0x80070057-e_invalidarg/](http://ranafaisal.wordpress.com/2008/03/24/could-not-load-file-or-assembly-ajaxcontroltoolkit-or-one-of-its-dependencies-the-parameter-is-incorrect-exception-from-hresult-0x80070057-e_invalidarg/)&nbsp;
+
+Hi,
+
+Some time in ajax web development you face this error during website building “Could not load file or assembly ‘AjaxControlToolkit’ or one of its dependencies. The parameter is incorrect. (Exception from HRESULT: 0×80070057 (E_INVALIDARG))”.
+
+If this error come then please open this folder “C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files” and remove all items in this. Then rebuild your website.
+
+Then your website build without any error.
+
+Thanks
+
+Rana Faisal Munir
+
 </span>]]
