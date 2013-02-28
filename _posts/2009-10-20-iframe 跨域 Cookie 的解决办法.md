@@ -2,4 +2,4 @@
 layout: post
 title: iframe 跨域 Cookie 的解决办法
 ---
-<p>Internet Explorer 6+</p><p>使用P3P</p><p>Safari 4</p><p>Cookie 是无解的，但是可以使用&nbsp;sessionStorage 或者&nbsp;localStorage，可以算的上是完美解决。</p><p>Firefox 和&nbsp;Chrome 是正常的，无需解决。</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>]]
+desc
