@@ -1,3 +1,7 @@
+---
+layout: post
+title: Nicholas C. Zakas 谈前端工程师
+---
 <div>Nicholas C. Zakas谈怎样才能成为优秀的前端工程师</div>
 <p><a href="http://www.cn-cuckoo.com/2010/01/10/nicholas-c-zakas-talk-about-what-makes-a-good-front-end-engineer-1356.html" target="_blank">http://www.cn-cuckoo.com/2010/01/10/nicholas-c-zakas-talk-about-what-makes-a-good-front-end-engineer-1356.html</a></p>
 <p>Nicholas C. Zakas如何面试前端工程师&nbsp;</p>

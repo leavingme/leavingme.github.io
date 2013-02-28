@@ -1,3 +1,7 @@
+---
+layout: post
+title: JavaScript2.0 :抢先尝鲜
+---
 <a href="http://www.webreference.com/programming/javascript/rg38/2.html" target="_blank">JavaScript2.0 :抢先尝鲜</a> 作者 Rob Gravelle<br />作者为我们简要的介绍了下正在制定中的JavaScript2.0标准,有许多新特性的介绍和相应的代码演示：
 <p>
 <p>作为一个开发者和作家，我的一部分工作就是跟随web世界最新发展潮流——不管是关于公司合并、在线购物潮流、或者是编程技巧。我承认如今很难跟上 业界里发生的所有事情，但是有个四处流传的小道消息却吸引了许多的目光：JavaScript2.0提案。作为新的 JavaScript2.0\EMCAScript 4.0计划于2009年终稿，但是日前已经做了很多的工作-包括好的、不好的。今天，我们来看看这份提案规范的一部分，看下他们是在改进这门语言还是狗尾 续貂。</p>

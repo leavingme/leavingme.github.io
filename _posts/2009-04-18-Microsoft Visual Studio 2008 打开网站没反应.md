@@ -1,3 +1,7 @@
+---
+layout: post
+title: Microsoft Visual Studio 2008 打开网站没反应
+---
 <p>Microsoft Visual Studio 2008 打开网站没反应</p>
 <p>重装，打SP1，卸载......搞了一天，把人都搞疯了，用Windows Install Clean Up清除了相关程序，再重新安装还是不行。</p>
 <p>无意识的使用了下快捷键Ctrl + Alt + O</p>

@@ -1,3 +1,7 @@
+---
+layout: post
+title: JavaScript 实现模拟拖放
+---
 <div>拖放（Drag-and-Drop）是网页中经常出现的效果，比如：iGoogle里的gadget、QZone里的模块、cnblogs里的插入代码对话框等。咋一看对于实现该效果毫无头绪，实际上理清思路就比较好实现了。<br /><br />问：把大象放冰箱里分几步？</div>
 <div>答：分三步。1. 打开冰箱门；2. 把大象放进去；3. 关上冰箱门。<br /><br />那拖放效果分几步呢？</div>
 <div>1. 按下鼠标mousedown；2. 移动鼠标mousemove；3. 松开鼠标mouseup。<br /><br /><strong>一、简单实现</strong></div>

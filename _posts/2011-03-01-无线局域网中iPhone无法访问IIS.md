@@ -1,3 +1,7 @@
+---
+layout: post
+title: 无线局域网中iPhone无法访问IIS
+---
 <p><strong>问题</strong></p>
 <p><a href="http://serverfault.com/questions/63591/accessing-iis-from-an-iphone">http://serverfault.com/questions/63591/accessing-iis-from-an-iphone</a></p>
 <p><strong>突破</strong></p>

@@ -1,3 +1,7 @@
+---
+layout: post
+title: Prototype框架之$$函数
+---
 <ul>
     <li>元素标签(tag)。$$("li")
     <li>元素ID,id前要加#。$$("#div_test")

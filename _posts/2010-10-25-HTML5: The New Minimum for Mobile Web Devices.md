@@ -1,3 +1,7 @@
+---
+layout: post
+title: HTML5: The New Minimum for Mobile Web Devices
+---
 <p><span style="font-family: Courier;">原文链接：</span><a href="http://www.sencha.com/blog/2010/10/15/html5-the-new-minimum-for-mobile-web-devices/"><span style="font-family: Courier;">http://www.sencha.com/blog/2010/10/15/html5-the-new-minimum-for-mobile-web-devices/</span></a></p>
 <p><span style="font-family: Courier;">October 15, 2010 by Michael Mullany</span></p>
 <p id="aeaoofnhgocdbnbeljkmbjdmhbcokfdb-mousedown"><img src="http://images.cnblogs.com/cnblogs_com/leavingme/ios-android.jpg" border="0" width="200" height="213" />&nbsp;</p>

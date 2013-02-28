@@ -1,3 +1,7 @@
+---
+layout: post
+title: Using Validations and Associations in Sencha Touch
+---
 <p><span style="font-family: Courier;">原文链接：</span><a href="http://www.sencha.com/blog/2010/10/14/using-validations-and-associations-in-sencha-touch/"><span style="font-family: Courier;">http://www.sencha.com/blog/2010/10/14/using-validations-and-associations-in-sencha-touch/</span></a></p>
 <p><span style="font-family: Courier;">October 14, 2010 by Ed Spencer</span></p>
 

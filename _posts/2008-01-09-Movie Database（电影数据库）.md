@@ -1,3 +1,7 @@
+---
+layout: post
+title: Movie Database（电影数据库）
+---
 <br />
 SELECT title, votes<br />
 &nbsp;FROM movie<br />

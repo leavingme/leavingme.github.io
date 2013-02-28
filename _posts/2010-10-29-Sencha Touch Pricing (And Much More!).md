@@ -1,3 +1,7 @@
+---
+layout: post
+title: Sencha Touch Pricing (And Much More!)
+---
 <span style="font-family: Helvetica, Arial, Verdana, Geneva, sans-serif; line-height: 18px; font-size: 12px; color: #555555;">
 <p style="margin-top: 0px; margin-right: 0px; margin-bottom: 5px; margin-left: 0px; color: #999999; display: block; font-family: 'Lucida Grande', Verdana, Arial, sans-serif; font-size: 11px; font-weight: normal; letter-spacing: 0px; padding: 0px;" class="meta"><span style="color: gray; font-size: 11px; font-weight: normal; margin-bottom: 5px; display: block;" class="date-header">September 3, 2010 by Abraham Elias</span></p>
 <div style="line-height: 20px; padding: 0px; margin: 0px;" class="entry">

@@ -1,3 +1,7 @@
+---
+layout: post
+title: Beautiful Soup 解析 Baidu 首页失败
+---
 <span style="font-family: 微软雅黑; font-size: 12px; line-height: normal; white-space: pre;">http://groups.google.com/group/python-cn/browse_thread/thread/8ad925031a97b8b2/a782b13f321a1ff8?#a782b13f321a1ff8</span>
 <div>
 <div><span style="font-family: 微软雅黑, 'courier new'; font-size: small;" size="3" face="微软雅黑, 'courier new'"><span style="font-size: 12px; line-height: normal; white-space: pre;">

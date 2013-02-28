@@ -1,3 +1,7 @@
+---
+layout: post
+title: Apache Ant & YUI Builder
+---
 <p>一直想要找到合并，压缩JavaScript的最佳办法。在看过＃百度泛用户体验＃＃tangram开发中使用的开源工具介绍＃ http://www.baiduux.com/blog/2011/04/15/tangram-dev-tools/ 这篇文章，了解到“tangram每次发布新版本时提供下载的各种源代码都是通过Apache Ant生成。在tangram的release目录下就可以看到对于该工具的配置”。</p>
 <p><strong>了解Ant</strong></p>
 <p>Apache Ant，是一个将软件编译、测试、部署等步骤联系在一起加以自动化的一个工具，大多用于Java环境中的软件开发。由Apache软件基金会所提供。默认情况下，XML文件名为build.xml 。</p>

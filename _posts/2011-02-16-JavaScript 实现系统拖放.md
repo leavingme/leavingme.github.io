@@ -1,3 +1,7 @@
+---
+layout: post
+title: JavaScript 实现系统拖放
+---
 <p>除了Opera，目前的浏览器均已经支持系统拖放了。<br /><br /><strong>拖放事件</strong></p>
 <p>1.拖动项事件</p>
 <p>dragstart; drag; dragend;</p>

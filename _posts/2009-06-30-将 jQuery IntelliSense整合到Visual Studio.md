@@ -1,3 +1,7 @@
+---
+layout: post
+title: 将 jQuery IntelliSense整合到Visual Studio
+---
 <p>
 <p>上个月，我在博客里宣布了<a href="http://blog.joycode.com/scottgu/archive/2008/09/29/115287.aspx" target="_blank">微软将对jQuery提供支持</a>。在过去的几个星期里，我们与jQuery开发团队合作，在Studio 2008 和 Visual Web Developer 2008 Express版本（免费的）中增加了很好的jQuery intellisense支持。现在这个支持可以下载使用了。</p>
 <p>&nbsp;</p>

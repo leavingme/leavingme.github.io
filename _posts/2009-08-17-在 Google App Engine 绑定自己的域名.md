@@ -1,3 +1,7 @@
+---
+layout: post
+title: 在 Google App Engine 绑定自己的域名
+---
 <span style="font-family: Verdana, Simsun; font-size: 13px; line-height: 22px; color: #333333;">
 <p style="line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 1.35em; margin-left: 0px;">如果你成功<a title="Google App Engine 申请注册指南" href="http://donauya.spaces.live.com/blog/cns!F53B4DB2F7D1A8A1!124.entry" target="_blank" style="line-height: 22px; font-weight: inherit; text-decoration: none; color: #006629; cursor: pointer;">申请了 Google App Engine 的服务</a>，并创建了自己的应用(Application)，你会自动获得一个形如 your-application-id.appspot.com 的 URL 地址，用于你的应用程序的发布。</p>
 <p style="line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 1.35em; margin-left: 0px;">如果你不喜欢这样的地址，完全可以把&nbsp;<a title="Google App Engine" href="http://code.google.com/appengine/" target="_blank" style="line-height: 22px; font-weight: inherit; text-decoration: none; color: #006629; cursor: pointer;">Google App Engine</a>&nbsp;的服务绑定到自己的域名上。</p>

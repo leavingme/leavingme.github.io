@@ -1,3 +1,7 @@
+---
+layout: post
+title: How to develop firefox extentions?
+---
 <br />
 <br />
 1.Development Overview<br />

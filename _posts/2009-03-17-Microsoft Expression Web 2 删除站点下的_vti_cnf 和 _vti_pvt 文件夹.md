@@ -1,3 +1,7 @@
+---
+layout: post
+title: Microsoft Expression Web 2 删除站点下的_vti_cnf 和 _vti_pvt 文件夹
+---
 <p>Adobe Dreamweaver CS3 最近老崩溃，换Microsoft Expression Web 2 试试，发现还真不错。最起码占用内存小，速度快。</p>
 <p>Microsoft Expression Web 2 应该算是Frontpage的后续产品，有着和Frontpage一样让人不爽的地方。著名的_vti_cnf 和&nbsp;_vti_pvt 文件夹。</p>
 <p>删除办法如下</p>

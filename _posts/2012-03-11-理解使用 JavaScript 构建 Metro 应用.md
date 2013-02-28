@@ -1,3 +1,7 @@
+---
+layout: post
+title: 理解使用 JavaScript 构建 Metro 应用
+---
 <p>从 Windows 7 升级到 Windows 8&nbsp;Consumer Preview 后，会导致&nbsp;Microsoft Visual Studio 11 Express Beta for Windows 8 无法申请开发者证书。</p>
 <p>Upgrade from Windows 7 can cause the “We couldn’t get your developer license” error&nbsp;</p>
 <p>解决方法在这里：http://t.cn/zOVOlmS 其实就是重装</p>

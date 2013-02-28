@@ -1,3 +1,7 @@
+---
+layout: post
+title: JavaScript 的 replace() 方法
+---
 <p><span style="font-family: Verdana;" face="Verdana">在JavaScript中，String的函数replace()简直太让人喜爱了。它灵活而强大的字符替换处理能力，让我不禁想向大家介绍它。</span></p>
 <p><span style="font-family: Verdana;" face="Verdana">replace()最简单的算是能力就是简单的字符替换。示例代码如下：</span></p>
 <p>

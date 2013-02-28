@@ -1,3 +1,7 @@
+---
+layout: post
+title: 正确使用prototype.js的Event.stopObserving方法 
+---
 <p>最近在网上看到《<a snap_preview_added="no" rel="bookmark" href="http://my.donews.com/digitalghost/2006/07/25/sihgiowppuclsdzhpvgsbgghlrusqycjxmam/">正确使用prototype.js的Event.stopObserving方法</a>》文章，<a href="http://my.donews.com/digitalghost/2006/07/25/sihgiowppuclsdzhpvgsbgghlrusqycjxmam/">http://my.donews.com/digitalghost/2006/07/25/sihgiowppuclsdzhpvgsbgghlrusqycjxmam/</a><br />原文 ：</p>
 <p><span style="background-color: #7fffd4;">今天使用时发现Event.stopObserving的一些问题，其实是使用得方法不当造成的。</span></p>
 <p><span style="background-color: #7fffd4;">对于以下代码：</span>&nbsp;</p>

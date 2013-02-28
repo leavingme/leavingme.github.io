@@ -1,3 +1,7 @@
+---
+layout: post
+title: 站在巨人肩膀上 - jQuery Plugin
+---
 <span style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; line-height: 15px;">
 <p style="margin-top: 1em; margin-right: 0px; margin-bottom: 1em; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px;"><span class="clsSubject" style="font-weight: bold; color: #aa4400; font-size: 17px;">【BlockUI】</span></p>
 <p style="margin-top: 1em; margin-right: 0px; margin-bottom: 1em; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px;">在網頁操作過程中，我們需要顯示某些訊息，要求使用者等待或做出特殊回應，在此一過程沒有完成前，使用者不能進行其他操作。這就是所謂強制式對話框(Modal Dialog)的概念，IE有所謂的showModalDialog，但此一函數無法跨瀏覽器使用。BlockUI提供了如Modal Dialog的效果，會在網頁或元素表面放上一層遮罩，阻止使用者進行任何操作，還可同時顯示指定的訊息。</p>

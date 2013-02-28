@@ -1,3 +1,7 @@
+---
+layout: post
+title: 用Visual Studio连接MySql数据库 
+---
 <p>&nbsp;</p>
 <p>最近做了下mysql的数据库操作，以前没用过，把我的方法写一下，mysql新手可以借鉴下。<br />我这里是用的connector/net连接的。<br /><br />1.去<span style="font-family: Courier New;"><a href="http://dev.mysql.com/downloads/connector/net/5.0.html">http://dev.mysql.com/downloads/connector/net/5.0.html</a></span>下载MySql Connector/Net 5.0，我用的是5.0.8.1，下载后安装<br /><br />2.到安装目录，如<span style="font-family: Courier New;">D:\Program Files\MySQL\MySQL Connector Net 5.0.8.1\Binaries\.NET 2.0拷贝<span style="font-family: Courier New;">MySql.Data.dll</span>到你的项目bin下，或者直接引用它。<br /></span><span style="font-family: Courier New;"><br />3.添加using MySql.Data.MySqlClient;<br /><br />4.下面是我的程序：</span></p>
 <p><span style="font-family: Courier New;"><br />

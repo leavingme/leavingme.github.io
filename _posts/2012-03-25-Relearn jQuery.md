@@ -1,3 +1,7 @@
+---
+layout: post
+title: Relearn jQuery
+---
 <p>好久都没有关注jQuery了，趁着这次 1.7.2 的发布，学点新东西</p>
 <p>http://api.jquery.com/category/version/1.7/</p>
 <p>1.7 带来的改变</p>

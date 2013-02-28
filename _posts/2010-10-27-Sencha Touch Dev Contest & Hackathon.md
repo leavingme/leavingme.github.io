@@ -1,3 +1,7 @@
+---
+layout: post
+title: Sencha Touch Dev Contest & Hackathon
+---
 <p style="margin-top: 0px; margin-right: 0px; margin-bottom: 5px; margin-left: 0px; color: #999999; display: block; font-family: 'Lucida Grande', Verdana, Arial, sans-serif; font-size: 11px; font-weight: normal; letter-spacing: 0px; line-height: 18px; padding: 0px;" class="meta"><span style="font-family: Courier;">原文链接：</span><a href="http://www.sencha.com/blog/2010/10/13/sencha-touch-dev-contest-hackathon/"><span style="font-family: Courier;">http://www.sencha.com/blog/2010/10/13/sencha-touch-dev-contest-hackathon/</span></a></p>
 <p style="margin-top: 0px; margin-right: 0px; margin-bottom: 5px; margin-left: 0px; color: #999999; display: block; font-family: 'Lucida Grande', Verdana, Arial, sans-serif; font-size: 11px; font-weight: normal; letter-spacing: 0px; line-height: 18px; padding: 0px;" class="meta">&nbsp;</p>
 <p style="font-family: Helvetica, Arial, Verdana, Geneva, sans-serif; color: #555555; font-size: 12px; line-height: 18px;"><span style="color: gray; font-size: 11px; font-weight: normal; margin-bottom: 5px; display: block; font-family: Courier;" class="date-header">October 13, 2010 by Michael Mullany</span></p>
