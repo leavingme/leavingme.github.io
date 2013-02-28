@@ -1,1 +1,1 @@
-Internet Explorer 6+使用P3PSafari 4Cookie 是无解的，但是可以使用 sessionStorage 或者 localStorage，可以算的上是完美解决。Firefox 和 Chrome 是正常的，无需解决。   ]]
+<p>Internet Explorer 6+</p><p>使用P3P</p><p>Safari 4</p><p>Cookie 是无解的，但是可以使用&nbsp;sessionStorage 或者&nbsp;localStorage，可以算的上是完美解决。</p><p>Firefox 和&nbsp;Chrome 是正常的，无需解决。</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>]]
