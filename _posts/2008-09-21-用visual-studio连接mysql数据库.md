@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 用Visual Studio连接MySql数据库
+date: 2008-09-21 21:44:00
 ---
 &nbsp;
 

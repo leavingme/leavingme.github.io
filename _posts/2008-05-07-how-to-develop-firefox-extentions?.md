@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to develop firefox extentions?
+date: 2008-05-07 20:49:00
 ---
 1.Development Overview
 

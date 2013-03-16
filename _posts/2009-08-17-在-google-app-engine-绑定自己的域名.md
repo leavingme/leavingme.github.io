@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 在 Google App Engine 绑定自己的域名
+date: 2009-08-17 20:04:00
 ---
 <span style="font-family: Verdana, Simsun; font-size: 13px; line-height: 22px; color: #333333;">
 

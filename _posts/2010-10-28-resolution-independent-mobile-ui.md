@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Resolution Independent Mobile UI
+date: 2010-10-28 00:46:00
 ---
 <span class="Apple-style-span" style="font-family: Helvetica, Arial, Verdana, Geneva, sans-serif; line-height: 18px; font-size: 12px; color: #555555;">
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: HTML5: The New Minimum for Mobile Web Devices
+date: 2010-10-25 23:20:00
 ---
 <span style="font-family: Courier;">原文链接：</span>[<span style="font-family: Courier;">http://www.sencha.com/blog/2010/10/15/html5-the-new-minimum-for-mobile-web-devices/</span>](http://www.sencha.com/blog/2010/10/15/html5-the-new-minimum-for-mobile-web-devices/)
 

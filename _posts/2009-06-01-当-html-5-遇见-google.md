@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 当 HTML 5 遇见 Google
+date: 2009-06-01 10:36:00
 ---
 新闻来源:webmonkey.com    
 在 [Google I/O](http://code.google.com/events/io/) 的开发者大会，Google 工程副总裁 Vic Gundotra 表示了他们对下一代 HTML 语言，HTML 5 的承诺。尽管 [HTML 5](http://www.whatwg.org/specs/web-apps/current-work/) 还处在草案阶段，W3C 的委员会还在针对这一草案进行漫长的讨论，然而 [HTML 5 已经被广泛实现](http://www.webmonkey.com/blog/How_HTML_5_Is_Already_Changing_the_Web)，或者作为一种实验性的演示，或者已经成为某些 Web 程序的核心。

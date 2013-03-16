@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 安装 VirtualBox Guest Additions 后 Windows XP 分辨率问题
+date: 2013-01-30 11:11:00
 ---
 没有安装 Guest Additions 前，Windows XP 的虚拟机分辨率有很多选择，安装后，分辨率确却只有800x600了。
 

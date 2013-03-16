@@ -1,6 +1,7 @@
 ---
 layout: post
 title: JavaScript 的 replace() 方法
+date: 2008-04-24 15:01:00
 ---
 <span style="font-family: Verdana;" face="Verdana">在JavaScript中，String的函数replace()简直太让人喜爱了。它灵活而强大的字符替换处理能力，让我不禁想向大家介绍它。</span>
 

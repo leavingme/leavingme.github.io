@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sencha Touch Dev Contest & Hackathon
+date: 2010-10-27 00:06:00
 ---
 <span style="font-family: Courier;">原文链接：</span>[<span style="font-family: Courier;">http://www.sencha.com/blog/2010/10/13/sencha-touch-dev-contest-hackathon/</span>](http://www.sencha.com/blog/2010/10/13/sencha-touch-dev-contest-hackathon/)
 

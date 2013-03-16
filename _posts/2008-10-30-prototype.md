@@ -1,6 +1,7 @@
 ---
 layout: post
 title: prototype
+date: 2008-10-30 17:11:00
 ---
 <div class="cnblogs_code">
 <pre>![](http://www.cnblogs.com/images/OutliningIndicators/ContractedBlock.gif)![](http://www.cnblogs.com/images/OutliningIndicators/ExpandedBlockStart.gif)<span id="Code_Closed_Text_171054" class="cnblogs_code_Collapse">Code</span><span id="Code_Open_Text_171054">

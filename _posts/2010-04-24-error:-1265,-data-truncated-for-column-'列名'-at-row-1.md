@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Error: 1265, Data truncated for column '列名' at row 1
+date: 2010-04-24 22:20:00
 ---
 [<span style="font-family: Courier;">http://www.heidisql.com/forum.php?t=5205</span>](http://www.heidisql.com/forum.php?t=5205)&nbsp;
 

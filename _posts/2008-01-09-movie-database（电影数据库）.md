@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Movie Database（电影数据库）
+date: 2008-01-09 04:23:00
 ---
 SELECT title, votes
 

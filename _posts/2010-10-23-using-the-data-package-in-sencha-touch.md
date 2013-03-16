@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Using the Data Package in Sencha Touch
+date: 2010-10-23 20:26:00
 ---
 <div style="padding-bottom: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; min-height: 100px; padding-left: 0px; padding-right: 0px; word-wrap: break-word; padding-top: 0px;" class="t_msgfontfix" id="aeaoofnhgocdbnbeljkmbjdmhbcokfdb-mousedown"><font class="Apple-style-span" face="Verdana, Helvetica, Arial, sans-serif" size="3"><span class="Apple-style-span" style="border-collapse: collapse; line-height: normal;">原文链接：</span></font><span class="Apple-style-span" id="" style="border-collapse: separate; font-family: verdana, 'courier new'; line-height: 21px;">&nbsp;</span><span class="Apple-style-span" style="border-collapse: collapse; line-height: normal;"><font class="Apple-style-span" size="3" face="Verdana, Helvetica, Arial, sans-serif"></font></span>[http://www.sencha.com/blog/2010/08/17/using-the-data-package-in-sencha-touch/](http://www.sencha.com/blog/2010/08/17/using-the-data-package-in-sencha-touch/)</div>
 

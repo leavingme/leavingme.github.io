@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Prototype框架之$$函数
+date: 2008-05-09 10:35:00
 ---
 *   元素标签(tag)。$$("li")
     <li>元素ID,id前要加#。$$("#div_test")

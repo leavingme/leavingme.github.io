@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 站在巨人肩膀上 - jQuery Plugin
+date: 2009-08-05 17:38:00
 ---
 <span style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; line-height: 15px;">
 

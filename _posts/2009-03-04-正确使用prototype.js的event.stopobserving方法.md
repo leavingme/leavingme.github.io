@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 正确使用prototype.js的Event.stopObserving方法
+date: 2009-03-04 10:35:00
 ---
 最近在网上看到《[正确使用prototype.js的Event.stopObserving方法](http://my.donews.com/digitalghost/2006/07/25/sihgiowppuclsdzhpvgsbgghlrusqycjxmam/)》文章，[http://my.donews.com/digitalghost/2006/07/25/sihgiowppuclsdzhpvgsbgghlrusqycjxmam/](http://my.donews.com/digitalghost/2006/07/25/sihgiowppuclsdzhpvgsbgghlrusqycjxmam/)
 原文 ：

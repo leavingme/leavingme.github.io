@@ -1,6 +1,7 @@
 ---
 layout: post
 title: JavaScript 实现系统拖放
+date: 2011-02-16 18:18:00
 ---
 除了Opera，目前的浏览器均已经支持系统拖放了。
 

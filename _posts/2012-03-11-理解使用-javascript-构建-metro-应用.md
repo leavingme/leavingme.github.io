@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 理解使用 JavaScript 构建 Metro 应用
+date: 2012-03-11 17:00:00
 ---
 从 Windows 7 升级到 Windows 8&nbsp;Consumer Preview 后，会导致&nbsp;Microsoft Visual Studio 11 Express Beta for Windows 8 无法申请开发者证书。
 

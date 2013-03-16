@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 放心使用 Google Libraries API
+date: 2011-02-15 23:00:00
 ---
 Google 在2008年发布了 [Google Libraries API](http://code.google.com/apis/libraries/)。Google 将优秀的 JavaScript 框架部署在其 CDN 上，在我们的网站上使用 Google Libraries API&nbsp;可以加速 JavaScript 框架的加载速度。
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Relearn jQuery
+date: 2012-03-25 20:57:00
 ---
 好久都没有关注jQuery了，趁着这次 1.7.2 的发布，学点新东西
 

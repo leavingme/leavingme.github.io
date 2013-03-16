@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 将 Web 项目从 Visual Studio .Net 2002/2003 转换到 Visual Studio 2005 的分步指南
+date: 2008-01-13 08:04:00
 ---
 ![](aggbug/2040248.aspx)![](http://www.cnblogs.com/leavingme/aggbug/1166231.html)
 

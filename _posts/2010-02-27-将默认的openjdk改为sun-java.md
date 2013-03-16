@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 将默认的OpenJDK改为SUN JAVA
+date: 2010-02-27 13:58:00
 ---
 <span style="font-family: 宋体, arial, sans-serif; font-size: 14px; line-height: 24px;">将默认的OpenJDK改为SUN JAVA （SUN JAVA的支持还是好些，如一些网页的JAVA应用及JAVA应用程序）
 &nbsp;&nbsp; 安装SUN JAVA后，UBUNTU 9.10使用的还是OpenJDK，所以如果要使系统使用SUN JAVA还要进行相关的设置：

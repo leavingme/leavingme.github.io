@@ -1,6 +1,7 @@
 ---
 layout: post
 title: iframe 跨域 Cookie 的解决办法
+date: 2009-10-20 17:25:00
 ---
 Internet Explorer 6+
 

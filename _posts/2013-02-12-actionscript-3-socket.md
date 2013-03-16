@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ActionScript 3 Socket
+date: 2013-02-12 12:28:00
 ---
 各个版本的 Flash Player 中针对套接字策略文件的要求：
 

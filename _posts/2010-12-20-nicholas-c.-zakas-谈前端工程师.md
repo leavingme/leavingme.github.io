@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Nicholas C. Zakas 谈前端工程师
+date: 2010-12-20 21:38:00
 ---
 <div>Nicholas C. Zakas谈怎样才能成为优秀的前端工程师</div>
 

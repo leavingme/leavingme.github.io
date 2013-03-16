@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 微软发布网页开发调试利器SuperPreview
+date: 2009-03-22 17:22:00
 ---
 **这段时间，好消息不断，先是Win7，IE8，今天又有了Expression Web SuperPreview的好消息。 **
 目前有很多集成了IE各各版本的调试工具。如IETester、Multiple IE、IECollection等等。微软近日也推出一个工具Expression Web SuperPreview,它是Expression Web包中的子产品。（Expression包是相当出色的，Expression Web 完全是可以取代DW的XHTML+CSS开发工具）

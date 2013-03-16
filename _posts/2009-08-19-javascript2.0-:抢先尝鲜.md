@@ -1,6 +1,7 @@
 ---
 layout: post
 title: JavaScript2.0 :抢先尝鲜
+date: 2009-08-19 10:42:00
 ---
 [JavaScript2.0 :抢先尝鲜](http://www.webreference.com/programming/javascript/rg38/2.html) 作者 Rob Gravelle
 作者为我们简要的介绍了下正在制定中的JavaScript2.0标准,有许多新特性的介绍和相应的代码演示：

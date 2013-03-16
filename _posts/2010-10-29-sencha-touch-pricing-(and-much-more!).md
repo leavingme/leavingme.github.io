@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sencha Touch Pricing (And Much More!)
+date: 2010-10-29 00:44:00
 ---
 <span style="font-family: Helvetica, Arial, Verdana, Geneva, sans-serif; line-height: 18px; font-size: 12px; color: #555555;">
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 函数的apply、call方法和length属性
+date: 2008-07-13 22:29:00
 ---
 <font face="Verdana"><font face="Verdana">JavaScript为函数对象定义了两个方法：apply和 call，它们的作用都是将函数绑定到另外一个对象上去运行，两者仅在定义参数的方式有所区别： 
 
