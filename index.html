@@ -4,9 +4,11 @@ title: LeavingMe.net
 ---
 {% for post in site.posts %}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
-  {% if year != y %}
-    {% assign year = y %}
-	<h3>{{ y }}</h3>
-  {% endif %}
-  <li>{{ post.date | date:"%Y-%m-%d" }} <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% if year != y %}
+      {% assign year = y %}
+<h3>{{ y }}</h3>
+    {% endif %}
+<ul>
+<li>{{ post.date | date:"%Y-%m-%d" }} <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+</ul>
 {% endfor %}
