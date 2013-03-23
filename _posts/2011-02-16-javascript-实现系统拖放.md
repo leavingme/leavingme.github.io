@@ -68,14 +68,13 @@ var sURL = oEvent.dataTransfer.getData("URL");
 
 dragDrop方法可以用于几乎所有的HTML元素。通过调用dragDrop()来初始化系统拖动事件，可让一般情况下不能拖动的项触发dragstart、drag和dragend事件。
 
-<div class="cnblogs_Highlighter">
-<pre class="brush:javascript">oElement.onmousemove = function(oEvent) {
+```
+oElement.onmousemove = function(oEvent) {
 	if(oEvent.button == 1) {
 		oElement.dragDrop();
 	}
-}</pre>
-</div>
-
+}
+```
 **
 IE drag &amp; drop 删除元素 Demo**
 
