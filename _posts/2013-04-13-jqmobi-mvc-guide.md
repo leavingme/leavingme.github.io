@@ -30,17 +30,17 @@ MVC可以帮助你分割出你的应用程序和管理您的代码。控制器�
      删除
 然后，您将能够通过URL来调用它们的“待办事项”控制器类似下面的这条路线。
 
-```
+
 <a href="/todo/add">添加</a> 
 <a href="/todo/edit/1">编辑</a>
 <a href="/todo/delete/1">删除</a>
-```
+
 
 您也可以使用以下方法调用一个javascript函数调用控制器和动作，
 
-```
+
 $.mvc.route("/todo/delete");
-```
+
 
 视图
 视图可以使用任何你喜欢的模板系统，但是我们在MVC捆绑jq.template.js。视图允许您重新使用HTML代码来生成标记给用户。有几个例子
@@ -91,7 +91,7 @@ var app = new $.mvc.app();
 “hello.js”控制器
 用你最喜欢的编辑器打开该文件，并让我们建立一个基本的控制器。
 
-```
+
 $.mvc.controller.create("hello", {
     views:["views/hello.js","views/world.js"], //These are the views we will use with the controller
     world:function(){
@@ -107,29 +107,29 @@ $.mvc.controller.create("hello", {
         $("#main").html($.template('views/hello.js'));
     },
 });
-```
+
 
 下一步，我们将编辑的两种视图文件。首先，我们将编辑“views/hello.js”和“views/ world.js，”
 
 <!-- views/hello.js -->
-```
+
 Hello <br>
 <a href="hello/world">Hello World</a>
-```
+
 
 
 <!-- views/world.js -->
-```
+
 Hello World <br>
 <a href="hello/">Go Back</a>
-```
+
 
 app.js
 Let's open up app.js again and edit it. We'll add an entry to load the hello.js controller and add a ready function to load the hello default action.
 
 让我们再次打开app.js并对其进行编辑。我们将添加一个条目，到加载的hello.js的控制器和添加一个ready函数来加载的Hello默认操作。
 
-```
+
 var app = new $.mvc.app();
 app.loadControllers(["hello"]); //You can pass in array or a string.  You do not need to reference the .js extension.
 
@@ -137,7 +137,7 @@ app.loadControllers(["hello"]); //You can pass in array or a string.  You do not
 app.ready(function(){
     $.mvc.route("hello/");
 });
-```
+
 
 4. Get Involved
 
