@@ -3,10 +3,10 @@ layout: post
 title: jQ.Mobi MVC 指引
 date: 2013-04-13 23:59:00
 ---
-Intro
+### Intro
 
 
-1. About
+#### 1. About
 
 MVC是一个轻量级的MVC框架。你可能会问“为什么需要另外的框架？”。MVC的目标是轻量级和快。我们不提供所有的高级功能的框架，像Backbone.js, CanJS, Knockout.js和Ember.js。相反，我们的目标是帮助分离内容从你的App，提供路由，简单模型和视图。
 
@@ -16,7 +16,7 @@ MVC构建一起工作的UI，但也可作为单独库来使用。其主要目标
 视图 - html用来渲染您的应用程序
 模型 - 处理存储和数据关系
 
-2. Overview
+#### 2. Overview
 
 
 MVC概述
@@ -50,7 +50,7 @@ $.mvc.route("/todo/delete");
 FORM项
 请参阅的视图部分如何使用jq.template.js的更详细的信息。
 
-3. Quickstart
+#### 3. Quickstart
 
 
 MVC快速入门
@@ -139,7 +139,7 @@ app.ready(function(){
 });
 
 
-4. Get Involved
+#### 4. Get Involved
 
 
 想要参与么?
