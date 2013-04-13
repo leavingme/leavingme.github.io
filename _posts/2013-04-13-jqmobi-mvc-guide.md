@@ -91,7 +91,6 @@ var app = new $.mvc.app();
 “hello.js”控制器
 用你最喜欢的编辑器打开该文件，并让我们建立一个基本的控制器。
 
-<pre>
 ```javascript
 $.mvc.controller.create("hello", {
     views:["views/hello.js","views/world.js"], //These are the views we will use with the controller
@@ -109,7 +108,6 @@ $.mvc.controller.create("hello", {
     },
 });
 ```
-</pre>
 
 下一步，我们将编辑的两种视图文件。首先，我们将编辑“views/hello.js”和“views/ world.js，”
 
