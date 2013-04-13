@@ -66,10 +66,10 @@ file - app.js
 现在，打开您的index.html文件并且包含jq.mvc.min.js文件和app.js文件。
 jq.mvc.min.js包括jq.mvc.js，jq.mobi.js和jq.template.js 
 
-
+```
 <script src="//cdn.app-framework-software.intel.com/jq.mvc.min.js" type="text/javascript"></script>
 <script src="app.js" type="text/javascript"></script>
-
+```
 
 接下来，打开app.js文件并穿件我们的MVC应用程序的一个实例。
 
