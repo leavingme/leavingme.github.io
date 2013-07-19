@@ -202,7 +202,3 @@ SELECT DISTINCT name
 &nbsp;&nbsp;&nbsp; )
 
 &nbsp;&nbsp;&nbsp; AND NOT name='Art Garfunkel'&nbsp;&nbsp;
-
-![](http://www.cnblogs.com/leavingme/aggbug/1166233.html)
-
-<div align="right">[陈源](http://leavingme.cnblogs.com/) 2008-01-09 04:23 [发表评论](http://www.cnblogs.com/leavingme/archive/2008/01/09/1166233.html#Feedback)</div>

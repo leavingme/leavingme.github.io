@@ -16,7 +16,3 @@ Microsoft Visual Studio .NET 2003,安装程序检测到另一个程序要求计�
 前天没装上SQLServer，就装.net，没想到也出现了没法装的问题，第二天上网搜了一下，和SQLServer一样的解决办法，也是把PendingFileRenameOperations删除，就可以了。这个错误在微软的知识库中也查得到。
 
 查到的知识库中的地址：[http://support.microsoft.com/kb/830608/zh-cn](http://support.microsoft.com/kb/830608/zh-cn)
-
-  ![](http://www.cnblogs.com/leavingme/aggbug/547632.html)
-
-<div align="right">[陈源](http://leavingme.cnblogs.com/) 2006-11-02 11:11 [发表评论](http://www.cnblogs.com/leavingme/archive/2006/11/02/547632.html#Feedback)</div>
