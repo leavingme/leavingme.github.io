@@ -1,8 +1,18 @@
 ---
 layout: post
-title: jQ.Mobi MVC 指引
+title: App Framework MVC 指引
 date: 2013-04-13 23:59:00
 ---
+jQ.Mobi 已经更名为 App Framework
+
+App Framework
+
+https://github.com/01org/appframework/
+
+App Framework MVC
+
+https://github.com/01org/appframeworkMVC
+
 ### Intro
 
 
