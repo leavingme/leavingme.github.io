@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 矩阵乘法
-date: 2022-10-06 20:50:00
+date: 2022-10-06 21:50:00 +0800
 ---
 DeepMind攻克50年数学难题，史上最快矩阵乘法算法登Nature封面：[https://www.cnbeta.com/articles/tech/1324285.htm](https://www.cnbeta.com/articles/tech/1324285.htm)
 
