@@ -1,6 +1,7 @@
 body {
   padding: 50px;
-  font: 14px/1.5 "PingFangSC-Regular", "Microsoft YaHei", "Helvetica Neue", sans-serif;
+  font: 14px/1.5;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,Helvetica Neue, Arial, Apple Color Emoji, Segoe UI Emoji,Segoe UI Symbol, Noto Color Emoji, sans-serif;
   color: #777;
   font-weight: 300;
 }
