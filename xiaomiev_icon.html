@@ -6,7 +6,7 @@ layout: null
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="apple-touch-icon" href="/images/icon/xiaomiev/bay_blue.png">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <title>小米汽车</title>
 </head>
@@ -30,7 +30,7 @@ layout: null
 
         // 获取 URL 参数中的图片标志
         const params = new URLSearchParams(window.location.search);
-        const imageFilename = params.get('icon');
+        const imageFilename = params.get('image');
 
         // 找到对应的图片数据
         const imageData = imagesData.find(img => img.filename === imageFilename);
@@ -38,10 +38,18 @@ layout: null
         // 如果找到了数据，更新页面内容
         if (imageData) {
             document.getElementById('imageTitle').textContent = imageData.title;
-            document.getElementById('imageSrc').src = `/assets/images/${imageData.filename}`;
+            document.getElementById('imageSrc').src = `/images/icon/xiaomiev/${imageData.filename}`;
             document.getElementById('imageDescription').textContent = imageData.description;
         } else {
             document.getElementById('imageDetail').innerHTML = '<p>图片未找到。</p>';
+        }
+
+        // 直接找到第一个 rel="apple-touch-icon" 的 <link> 标签
+        var link = document.querySelector('link[rel="apple-touch-icon"]');
+
+        // 更新它的 href 属性
+        if (link) {
+            link.setAttribute('href', `/images/icon/xiaomiev/${imageData.filename}`);
         }
     </script>
 
