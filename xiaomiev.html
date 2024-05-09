@@ -13,7 +13,7 @@ layout: null
 <body>
 {% for icon in site.static_files %}
     {% if icon.path contains 'images/icon/xiaomiev' %}
-      <img src="{{ icon.path }}" alt="{{ icon.name }}" style="border-radius: 22.5%">
+      <img src="{{ icon.path }}" alt="{{ icon.name }}" style="max-width: 50%; height: auto; border-radius: 22.5%">
     {% endif %}
 {% endfor %}
 <p>编译时间是 {{ 'now' | date: '%Y-%m-%d %H:%M:%S' }}</p>
