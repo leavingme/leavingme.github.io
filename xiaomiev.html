@@ -11,7 +11,7 @@ layout: null
     <title>小米汽车</title>
 </head>
 <body>
-{% assign icons = site.static_files | where: "path", "images/icon/xiaomiev/" %}
+{% assign icons = site.static_files | where: "path", "/images/icon/xiaomiev/" %}
 <div class="icons">
     {% for icon in icons %}
     <img src="{{ icon.path }}" alt="{{ icon.name }}">
