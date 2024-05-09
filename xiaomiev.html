@@ -1,3 +1,6 @@
+---
+layout: null
+---
 <!DOCTYPE html>
 <html>
 <head>
@@ -14,5 +17,6 @@
     <img src="{{ icon.path }}" alt="{{ icon.name }}">
     {% endfor %}
 </div>
+<p>当前时间是 {{ 'now' | date: '%Y-%m-%d %H:%M:%S' }}</p>
 </body>
 </html>
