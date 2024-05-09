@@ -11,19 +11,11 @@ layout: null
     <title>小米汽车</title>
 </head>
 <body>
-{% assign icons = site.static_files | where: "path", "/images/icon/xiaomiev/" %}
-<div class="icons">
-    {% for icon in icons %}
-    <img src="{{ icon.path }}" alt="{{ icon.name }}">
-    {% endfor %}
-</div>
-
-{% for image in site.static_files %}
-    {% if image.path contains 'images/icon/xiaomiev' %}
-      <img src="{{ image.path }}" alt="{{ image.name }}">
+{% for icon in site.static_files %}
+    {% if icon.path contains 'images/icon/xiaomiev' %}
+      <img src="{{ icon.path }}" alt="{{ icon.name }}" style="border-radius: 22.5%">
     {% endif %}
-  {% endfor %}
-
-<p>当前时间是 {{ 'now' | date: '%Y-%m-%d %H:%M:%S' }}</p>
+{% endfor %}
+<p>编译时间是 {{ 'now' | date: '%Y-%m-%d %H:%M:%S' }}</p>
 </body>
 </html>
