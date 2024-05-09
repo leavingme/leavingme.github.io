@@ -8,14 +8,11 @@
     <title>小米汽车</title>
 </head>
 <body>
-{% raw %}
 {% assign icons = site.static_files | where: "path", "images/icon/xiaomiev/" %}
 <div class="icons">
     {% for icon in icons %}
     <img src="{{ icon.path }}" alt="{{ icon.name }}">
     {% endfor %}
 </div>
-{% endraw %}
-
 </body>
 </html>
