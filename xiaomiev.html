@@ -11,10 +11,17 @@ layout: null
     <title>小米汽车</title>
 </head>
 <body>
-{% for icon in site.data.icons %}
-<img src="/images/icon/xiaomiev/{{ icon.filenam }}" alt="{{ icon.title }}" style="max-width: 50%; height: auto; border-radius: 22.5%">
-<p>{{ icon.title }}</p>
-{% endfor %}
+
+<ul>
+    {% for icon in site.data.icons %}
+    <li>
+        <a href="">
+        <img src="/images/icon/xiaomiev/{{ icon.filename }}" alt="{{ icon.title }}" style="max-width: 32px; height: auto; border-radius: 22.5%">
+        {{ icon.title }}
+        </a>
+    </li>
+    {% endfor %}
+</ul>
 <p>编译时间是 {{ 'now' | date: '%Y-%m-%d %H:%M:%S' }}</p>
 </body>
 </html>
