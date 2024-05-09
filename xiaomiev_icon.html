@@ -1,0 +1,51 @@
+---
+layout: null
+---
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="apple-touch-icon" href="/images/icon/xiaomiev/bay_blue.png">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <title>小米汽车</title>
+</head>
+<body>
+    <div id="imageDetail">
+        <h1 id="imageTitle"></h1>
+        <img id="imageSrc" src="" alt="图片加载中..." />
+        <p id="imageDescription"></p>
+    </div>
+
+    <script>
+        // 假设 images 数据已通过某种方式嵌入或可以通过 AJAX 获取
+        const imagesData = [
+            {% for icon in site.data.icons %}
+            {
+                "title": "{{ icon.title }}",
+                "filename": "{{ icon.filename }}"
+            },
+            {% endfor %}
+        ];
+
+        // 获取 URL 参数中的图片标志
+        const params = new URLSearchParams(window.location.search);
+        const imageFilename = params.get('icon');
+
+        // 找到对应的图片数据
+        const imageData = imagesData.find(img => img.filename === imageFilename);
+
+        // 如果找到了数据，更新页面内容
+        if (imageData) {
+            document.getElementById('imageTitle').textContent = imageData.title;
+            document.getElementById('imageSrc').src = `/assets/images/${imageData.filename}`;
+            document.getElementById('imageDescription').textContent = imageData.description;
+        } else {
+            document.getElementById('imageDetail').innerHTML = '<p>图片未找到。</p>';
+        }
+    </script>
+
+
+<p>编译时间是 {{ 'now' | date: '%Y-%m-%d %H:%M:%S' }}</p>
+</body>
+</html>
