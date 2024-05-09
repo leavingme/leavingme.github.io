@@ -30,7 +30,7 @@ layout: null
 
         // 获取 URL 参数中的图片标志
         const params = new URLSearchParams(window.location.search);
-        const imageFilename = params.get('image');
+        const imageFilename = params.get('icon');
 
         // 找到对应的图片数据
         const imageData = imagesData.find(img => img.filename === imageFilename);
