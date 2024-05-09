@@ -9,20 +9,29 @@ layout: null
     <link rel="apple-touch-icon" href="/images/icon/xiaomiev/bay_blue.png">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <title>小米汽车</title>
+    <style>
+        .icon {
+            max-width: 32px;
+            height: auto;
+            border-radius: 22.5%;
+        }
+    </style>
 </head>
+
 <body>
 
-<ul>
-    {% for icon in site.data.icons %}
-    <li>
-        <a href="/xiaomiev_icon.html?icon={{ icon.filename }}">
-        <img src="/images/icon/xiaomiev/{{ icon.filename }}" alt="{{ icon.title }}" style="max-width: 32px; height: auto; border-radius: 22.5%">
-        {{ icon.title }}
-        </a>
-    </li>
-    {% endfor %}
-</ul>
+    <ul>
+        {% for icon in site.data.icons %}
+        <li>
+            <a href="/xiaomiev_icon.html?icon={{ icon.filename }}">
+                <img src="/images/icon/xiaomiev/{{ icon.filename }}" alt="{{ icon.title }}" class="icon">
+                {{ icon.title }}
+            </a>
+        </li>
+        {% endfor %}
+    </ul>
 
-<p>{{ 'now' | date: '%Y-%m-%d %H:%M:%S' }}</p>
+    <p>{{ 'now' | date: '%Y-%m-%d %H:%M:%S' }}</p>
 </body>
+
 </html>
