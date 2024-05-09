@@ -17,6 +17,13 @@ layout: null
     <img src="{{ icon.path }}" alt="{{ icon.name }}">
     {% endfor %}
 </div>
+
+{% for image in site.static_files %}
+    {% if image.path contains 'images/icon/xiaomiev' %}
+      <img src="{{ image.path }}" alt="{{ image.name }}">
+    {% endif %}
+  {% endfor %}
+
 <p>当前时间是 {{ 'now' | date: '%Y-%m-%d %H:%M:%S' }}</p>
 </body>
 </html>
